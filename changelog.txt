@@ -1,0 +1,6 @@
+Run - node index.js
+sudo lsof -i :3000 - would want to know which process is using port 3000
+npx kill-port 3000 - to kill the running local server at port 3000..thanks :)
+NPX - NPX: The npx stands for Node Package Execute and it comes with the npm, when you installed npm above 5.2.0 version then automatically npx will installed. It is an npm package runner that can execute any package that you want from the npm registry without even installing that package
+The Unlicense -  offers a public domain waiver text with a fall-back public-domain-like license, inspired by permissive licenses but without an attribution clause. In 2015, GitHub reported that approximately 102,000 of their 5.1 million licensed projects (2% of licensed projects on GitHub.com) use the Unlicense.
+gitignore file - tells Git which files to ignore when committing your project to the GitHub repository. gitignore is located in the root directory of your repo. The .gitignore file itself is a plain text document
